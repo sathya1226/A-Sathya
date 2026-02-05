@@ -1,0 +1,20 @@
+Policy Number: POL-12345
+Policyholder Name: James O'Connor
+Effective Dates: 2025-03-01 to 2026-02-28
+
+Incident Date: 2025-09-22
+Incident Time: 07:30 PM
+Incident Location: Midtown Mall Parking, Seattle, WA
+Incident Description: Vehicle theft appears staged and potentially fraud related based on witness statements.
+
+Claimant: James O'Connor
+Third Parties: Unknown
+Contact Details: james.oconnor@email.com
+
+Asset Type: SUV
+Asset ID: REG-WA-4291X
+Estimated Damage: 30000
+
+Claim Type: vehicle
+Attachments: cctv clip, theft report
+Initial Estimate: 32000
