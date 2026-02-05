@@ -1,0 +1,20 @@
+Policy Number: POL-99871
+Policyholder Name: Maria Johnson
+Effective Dates: 2025-01-01 to 2025-12-31
+
+Incident Date: 2025-08-14
+Incident Time: 09:45 AM
+Incident Location: 21 Park Avenue, Austin, TX
+Incident Description: Rear-end collision at traffic signal, moderate bumper damage.
+
+Claimant: Maria Johnson
+Third Parties: Kyle Brown
+Contact Details: maria.johnson@email.com, +1-512-555-0199
+
+Asset Type: Sedan
+Asset ID: VIN-1HGCM82633A123456
+Estimated Damage: 18000
+
+Claim Type: vehicle
+Attachments: photos, police report
+Initial Estimate: 17000

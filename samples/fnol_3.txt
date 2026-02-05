@@ -1,0 +1,19 @@
+Policy Number: POL-77702
+Policyholder Name: Anika Patel
+Effective Dates: 2025-04-15 to 2026-04-14
+
+Incident Date: 2025-10-03
+Incident Time: 06:10 AM
+Incident Location: NH-48, Jaipur
+Incident Description: Slip-and-fall injury inside insured premises.
+
+Claimant: Anika Patel
+Contact Details: +91-98XXXXXX11
+
+Asset Type: Commercial Property
+Asset ID: PROP-778
+Estimated Damage: 120000
+
+Claim Type: injury
+Attachments: medical report
+Initial Estimate: 150000
